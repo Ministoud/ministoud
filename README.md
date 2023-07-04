@@ -1,8 +1,8 @@
 <h3 align="center">A young passionate software and web developer from Switzerland</h3>
 
-- 🔭 I’m currently working on: [Raid Invaders](https://github.com/Ministoud/RaidInvaders) and a game.
+- 🔭 I’m currently working on: [Raid Invaders](https://github.com/Ministoud/RaidInvaders), a longtime project for a game and a short-time project to make a prototype of a Voxel Engine.
 
-- 🌱 I’m currently learning: **Docker, NodeJS, React, Python, Machine Learning**
+- 🌱 I’m currently learning: **Fullstack Development, NodeJS, React, Python, Machine Learning**
 
 - 📫 How to reach me: **ministoud@gmail.com**
 
